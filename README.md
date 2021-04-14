@@ -32,15 +32,35 @@ SpecializesIn(trainer_id, specialization_id)
 
 ## Screenshots
 ![](website_screenshots/homepage.png)
+
+
 ![](website_screenshots/client_registration.png)
+
+
 ![](website_screenshots/trainer_registration.png)
+
+
 ![](website_screenshots/client-trainer_login_change_password.png)
+
+
 ![](website_screenshots/page_after_login.png)
+
+
 ![](website_screenshots/choose_facilities.png)
+
+
 ![](website_screenshots/choose_specializations.png)
+
+
 ![](website_screenshots/book_appointments.png)
+
+
 ![](website_screenshots/client_appointments.png)
+
+
 ![](website_screenshots/trainer_appointments.png)
+
+
 ![](website_screenshots/my_profile.png)
 
 ## Assumptions
